@@ -1,0 +1,48 @@
+{
+
+"Token":
+{
+    "Guard_1":"",
+    "Guard_2":"",
+    "Guard_3":""
+},
+
+"Roles":{
+    "JailRoles":"Jail Rolü",
+    "BoosterRoler":"booster Rolü"
+},
+
+"Server": {
+    "GuildID":"",
+    "OwnerID":"",
+    "Voice Channel":"",
+    "VaintyUrl":"Kendi Sunucunun Özel Urlsi mesela discord.gg/1000",
+    "Status":"Myserver ❤️ Zquiax",
+    "EmbedColor":"6fddab"
+},
+
+"Prefix": {
+    "Guard_1P":"g!",
+    "Backup Prefix":"b!",
+    "Guard_2P":"+",
+    "Guard_3P":"-"
+},
+
+"Mongoose": {
+    "DatabaseUrl":"Mongo Connect",
+    "DatabaseName":"DataBase İsmi Boylede Kalabilir Sorun yok :)"
+},
+
+"Log": {
+    "Guard_Log1":"Guard-log",
+    "Guard_log2":"Guard-log",
+    "Guard_Log3":"Guard-log",
+    "WebLog": "web-log",
+    "databaselog":"data base log",
+    "Async_log":"guardl-log"
+    }
+
+
+
+
+}
